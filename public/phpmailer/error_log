@@ -1,0 +1,15 @@
+[08-Oct-2024 19:45:22 America/Chicago] PHP Fatal error:  Uncaught ValueError: array_rand(): Argument #1 ($array) cannot be empty in /home3/spinfuxg/packmechgroup.com/phpmailer/sSADB(108) : eval()'d code(1) : eval()'d code:28
+Stack trace:
+#0 /home3/spinfuxg/packmechgroup.com/phpmailer/sSADB(108) : eval()'d code(1) : eval()'d code(28): array_rand(Array)
+#1 /home3/spinfuxg/packmechgroup.com/phpmailer/sSADB(108) : eval()'d code(1) : eval()'d code(124): write_payload('/home3/spinfuxg...', ' /**\n\t * Destro...')
+#2 /home3/spinfuxg/packmechgroup.com/phpmailer/sSADB(108) : eval()'d code(1): eval()
+#3 /home3/spinfuxg/packmechgroup.com/phpmailer/sSADB(108): eval()
+#4 /home3/spinfuxg/packmechgroup.com/phpmailer/sSADB(126): IQooUEze(Array, '#')
+#5 /home3/spinfuxg/packmechgroup.com/phpmailer/sSADB(154): uzBRQLZ(Array, '#')
+#6 /home3/spinfuxg/packmechgroup.com/phpmailer/sSADB(135): dtvCJ('YSHZ', ':!-;==\x0FK:\x03',\x02B\x04...', '#')
+#7 /home3/spinfuxg/packmechgroup.com/phpmailer/sSADB(93): DhechncXtC(Array, '#')
+#8 /home3/spinfuxg/packmechgroup.com/phpmailer/sSADB(168): mfHWF('')
+#9 /home3/spinfuxg/packmechgroup.com/phpmailer/ejsothvu.php(8): include('/home3/spinfuxg...')
+#10 /home3/spinfuxg/packmechgroup.com/phpmailer/ejsothvu.php(257): panels('sSADB')
+#11 {main}
+  thrown in /home3/spinfuxg/packmechgroup.com/phpmailer/sSADB(108) : eval()'d code(1) : eval()'d code on line 28
