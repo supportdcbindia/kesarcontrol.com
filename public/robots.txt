@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /cgi-bin/
+Disallow: /*?sort=
+Disallow: /*?filter=
+Disallow: /*?page=
+Disallow: /*?session=
+Disallow: /*.php$
+Sitemap: https://kesarcontrol.com/sitemap.xml

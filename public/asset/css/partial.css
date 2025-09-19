@@ -1,0 +1,16 @@
+/* only for devs */
+.nice-select .list {
+  max-height: 200px !important;
+  /* Set max height */
+  overflow-y: auto !important;
+  /* Enable vertical scrolling */
+  overflow-x: hidden !important;
+  /* Hide horizontal scroll */
+}
+
+/* form.dark .error-msg{
+  color:#fff !important;
+} */
+.contact-enquiry .form-cst .nice-select {
+  color: black;
+}
