@@ -68,7 +68,7 @@
                               fill="white" />
                         </svg>
                      </a>
-                     <a href="https://wa.me/6354883229?text=Hello Team Kesar Control Systems, I was going through your Website, Please connect me for product discussion." target="_blank"
+                     <a href="https://wa.me/6354883229?text=Hi" target="_blank"
                         aria-label="Start a WhatsApp chat with Kesar Control">
                         <svg fill="#000000" width="20" height="20" version="1.1" id="Layer_1"
                            xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -167,7 +167,7 @@
                               aria-label="Navigate to Ultra Low Freezer">Ultra Low Freezer</a>
                            <a class="dropdown-item" href="hot-air-oven" aria-label="Navigate to Hot Air Oven">Hot Air
                               Oven</a>
-                           <a class="dropdown-item" href="vaccum-oven" aria-label="Navigate to Vacuum Oven">Vaccum
+                           <a class="dropdown-item" href="vaccum-oven" aria-label="Navigate to Vacuum Oven">Vacuum
                               Oven</a>
                            <a class="dropdown-item" href="muffle-furnace" aria-label="Navigate to Muffle Furnace">Muffle
                               Furnace</a>
